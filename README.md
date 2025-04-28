@@ -70,7 +70,7 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
       <br/>
       <strong>Sistema de Tickets Técnicos</strong>
       <br/>
-      <sub>Plataforma de sistema de tickets con Laravel y MySQL.</sub>
+      <sub>Plataforma de sistema de tickets Utilizando Laravel y MySQL.</sub>
     </td>
   </tr>
 </table>
