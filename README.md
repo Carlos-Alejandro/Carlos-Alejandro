@@ -56,36 +56,46 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 
 ---
 
-#### 📌 Renta Vacacional Orquídeas
-<p align="center">
-  <img src="https://live.staticflickr.com/65535/54483782013_2e9fce3f83_z.jpg" alt="Renta Vacacional Orquídeas" width="500"/>
-</p>
+<div align="center">
 
-**Descripción:**  
-Página web de renta vacacional desarrollada con React y TailwindCSS.  
+### 📌 Renta Vacacional Orquídeas
+
+<img src="https://live.staticflickr.com/65535/54483782013_2e9fce3f83_z.jpg" alt="Renta Vacacional Orquídeas" width="600" />
+
+**Descripción breve:**  
+Página web de renta vacacional desarrollada con React y TailwindCSS.
+
+**Tecnologías utilizadas:** React, TailwindCSS, Vite
+
 🔗 [Ver proyecto](#)
 
 ---
 
-#### 📌 Sistema de Tickets Técnicos
-<p align="center">
-  <img src="https://live.staticflickr.com/65535/54483725494_5b545d09ee_z.jpg" alt="Sistema de Tickets Técnicos" width="500"/>
-</p>
+### 📌 Sistema de Tickets Técnicos
 
-**Descripción:**  
-Plataforma de gestión de reportes técnicos utilizando Laravel y MySQL.  
+<img src="https://live.staticflickr.com/65535/54483725494_5b545d09ee_z.jpg" alt="Sistema de Tickets Técnicos" width="600" />
+
+**Descripción breve:**  
+Plataforma de gestión de reportes técnicos utilizando Laravel y MySQL.
+
+**Tecnologías utilizadas:** Laravel, MySQL, Bootstrap
+
 🔗 [Ver proyecto](#)
 
 ---
 
-#### 📌 Plataforma IR Tour y Viajes
-<p align="center">
-  <img src="https://live.staticflickr.com/65535/54483862855_6d90d5c1ce.jpg" alt="Plataforma IR Tour y Viajes" width="500"/>
-</p>
+### 📌 Plataforma IR Tour y Viajes
 
-**Descripción:**  
-Sistema de reservas punto a punto utilizando React y TypeScript.  
+<img src="https://live.staticflickr.com/65535/54483862855_6d90d5c1ce.jpg" alt="Plataforma IR Tour y Viajes" width="600" />
+
+**Descripción breve:**  
+Sistema de reservas punto a punto utilizando React y TypeScript.
+
+**Tecnologías utilizadas:** React, TypeScript, TailwindCSS
+
 🔗 [Ver proyecto](#)
+
+</div>
 
 ---
 
