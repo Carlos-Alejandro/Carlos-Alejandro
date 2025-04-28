@@ -12,7 +12,7 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 
 ---
 
-<div align="right">
+<div align="left">
 
 ### 📜 Biografía sobre mí
 
@@ -28,13 +28,9 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 
 ---
 
-<div align="right">
+<div align="left">
 
 ### 💡 Valores que me definen
-
-</div>
-
-<div align="center">
 
 - **Responsabilidad**
 - **Creatividad**
