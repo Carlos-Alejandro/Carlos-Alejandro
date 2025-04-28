@@ -10,6 +10,25 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 
 ---
 
+### 🧑‍🎓 Mini biografía
+
+- 🎓 Graduado en Ingeniería en Desarrollo y Gestión de Software.
+- 🌎 Basado en Cancún, Quintana Roo, México.
+- 💻 Especializado en desarrollo frontend con React, TypeScript y TailwindCSS.
+- 🎯 Mi meta es crear soluciones digitales que generen impacto real.
+- 📚 En constante búsqueda de nuevos aprendizajes y desafíos tecnológicos.
+
+---
+
+### 💡 Valores que me definen
+
+- **Responsabilidad**
+- **Creatividad**
+- **Innovación**
+- **Trabajo en equipo**
+
+---
+
 ### 💻 Tecnologías principales
 
 <div align="center">
@@ -33,19 +52,29 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 
 ---
 
-### 📈 Actualmente trabajando en
+### 🎨 Pequeño portafolio visual
 
-- 📱 Aplicaciones móviles enfocadas en experiencia de usuario.
-- 🌐 Fullstack con Node.js y MongoDB.
-- 🎨 Diseño de interfaces más intuitivas con principios de UI/UX.
+<p align="center">
+  <img src="https://via.placeholder.com/250x150.png?text=Renta+Vacacional" alt="Proyecto 1" />
+  <img src="https://via.placeholder.com/250x150.png?text=Sistema+Tickets" alt="Proyecto 2" />
+  <img src="https://via.placeholder.com/250x150.png?text=IR+Tour+Viajes" alt="Proyecto 3" />
+</p>
+
+> *(Puedes reemplazar los links de imagen por capturas reales de tus proyectos.)*
 
 ---
 
-### 🛤️ Filosofía
+### 📈 Actualmente aprendiendo
 
-> *"El software no solo resuelve problemas. También crea experiencias."*  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=500&height=60&lines=Currently+learning...+Node.js;Currently+learning...+MongoDB;Currently+learning...+Advanced+UI%2FUX+Design;Currently+learning...+React+Native+Animations" alt="Currently learning typing effect" />
+</p>
 
-Creo en el diseño consciente, en el desarrollo responsable, y en la tecnología como motor de cambio positivo.
+---
+
+### ⏳ Ahora mismo estoy...
+
+Trabajando en proyectos personales mientras perfecciono mis habilidades de desarrollo móvil y backend.
 
 ---
 
@@ -59,5 +88,6 @@ Creo en el diseño consciente, en el desarrollo responsable, y en la tecnología
 ---
 
 <p align="center">
-  <em>“Gracias por visitar mi perfil”</em> ✨
+  <em>Keep learning. Keep building. ✨</em> <br/>
+  <strong>- Carlos Manuel Alejandro Martinez</strong>
 </p>
