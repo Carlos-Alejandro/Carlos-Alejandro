@@ -1,22 +1,29 @@
-<h1 align="center">Carlos Manuel Alejandro Martinez</h1>
-<p align="center"><em>Ingeniero en Desarrollo y Gestión de Software | Frontend Developer</em></p>
+<h1 align="center">Hola, soy Carlos Manuel Alejandro Martinez</h1>
+<p align="center"><em>Ingeniero en Desarrollo y Gestión de Software | Desarrollador Frontend</em></p>
+
+---
+
+### 📋 Resumen profesional
+
+Soy un desarrollador frontend apasionado por crear experiencias digitales funcionales, atractivas y orientadas al usuario.  
+A través de una combinación de diseño, tecnología y buenas prácticas, busco aportar valor real a cada proyecto en el que participo.
 
 ---
 
 ### ✨ Sobre mí
 
-Soy un desarrollador apasionado por construir experiencias digitales que conecten con las personas.  
-Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando diseño y tecnología.
+Me considero una persona creativa, responsable y enfocada en el aprendizaje constante.  
+Disfruto trabajar en equipo, enfrentar nuevos retos y mantenerme en evolución, siempre buscando superarme tanto a nivel técnico como personal.
 
 ---
 
 ### 🧑‍🎓 Mini biografía
 
-- 🎓 Graduado en Ingeniería en Desarrollo y Gestión de Software.
-- 🌎 Basado en Cancún, Quintana Roo, México.
+- 🎓 Egresado de Ingeniería en Desarrollo y Gestión de Software.
+- 📍 Actualmente resido en Cancún, Quintana Roo, México.
 - 💻 Especializado en desarrollo frontend con React, TypeScript y TailwindCSS.
-- 🎯 Mi meta es crear soluciones digitales que generen impacto real.
-- 📚 En constante búsqueda de nuevos aprendizajes y desafíos tecnológicos.
+- 🎯 Mi objetivo es construir soluciones digitales que impacten positivamente en las personas.
+- 📚 Apasionado por el aprendizaje continuo y la innovación tecnológica.
 
 ---
 
@@ -29,65 +36,67 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 
 ---
 
-### 💻 Tecnologías principales
+### 💬 ¿Qué me inspira a programar?
 
-<div align="center">
-
-| Frontend | Mobile | Backend (básico) | Bases de datos | Herramientas |
-|:--------|:-------|:----------------|:---------------|:------------|
-| React, TypeScript, TailwindCSS, Angular, Ionic | React Native | Node.js, Laravel, .NET | MySQL, MongoDB, Firebase | Git, Figma, VS Code |
-
-</div>
+Creo que la tecnología tiene el poder de transformar vidas y acercar a las personas a nuevas oportunidades.  
+Me inspira construir soluciones que no solo funcionen, sino que también transmitan una experiencia positiva y significativa.
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Mi stack favorito
 
-| Proyecto | Descripción breve |
-|:--------|:------------------|
-| **Renta Vacacional Orquídeas** | Web de renta vacacional construida con React y Tailwind. |
-| **Sistema de Tickets Técnicos** | Aplicación de reportes técnicos desarrollada con Laravel y MySQL. |
-| **Plataforma IR Tour y Viajes** | Plataforma de reservas punto a punto en React y TypeScript. |
-| **EduScan** | App móvil de asistencia escolar usando React Native y QR Codes. |
+- **Frontend:** React, TypeScript, TailwindCSS
+- **Mobile:** React Native
+- **Backend básico:** Node.js, Laravel
+- **Bases de datos:** MySQL, MongoDB
+- **Herramientas:** Git, Figma, Visual Studio Code
 
 ---
 
-### 🎨 Pequeño portafolio visual
+### 🏗️ Portafolio
+
+| Proyecto | Captura | Descripción |
+|:---------|:--------|:------------|
+| **Renta Vacacional Orquídeas** | ![Renta Vacacional](https://via.placeholder.com/300x180.png?text=Renta+Vacacional) | Página web de renta vacacional desarrollada con React y TailwindCSS. [Ver proyecto](#) |
+| **Sistema de Tickets Técnicos** | ![Sistema de Tickets](https://via.placeholder.com/300x180.png?text=Sistema+de+Tickets) | Plataforma de gestión de reportes técnicos con Laravel y MySQL. [Ver proyecto](#) |
+| **Plataforma IR Tour y Viajes** | ![IR Tour y Viajes](https://via.placeholder.com/300x180.png?text=IR+Tour+y+Viajes) | Sistema de reservas punto a punto utilizando React y TypeScript. [Ver proyecto](#) |
+
+> *(Puedes reemplazar las imágenes `placeholder.com` por tus capturas reales.)*
+
+---
+
+### 📚 Actualmente aprendiendo
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x150.png?text=Renta+Vacacional" alt="Proyecto 1" />
-  <img src="https://via.placeholder.com/250x150.png?text=Sistema+Tickets" alt="Proyecto 2" />
-  <img src="https://via.placeholder.com/250x150.png?text=IR+Tour+Viajes" alt="Proyecto 3" />
-</p>
-
-> *(Puedes reemplazar los links de imagen por capturas reales de tus proyectos.)*
-
----
-
-### 📈 Actualmente aprendiendo
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=500&height=60&lines=Currently+learning...+Node.js;Currently+learning...+MongoDB;Currently+learning...+Advanced+UI%2FUX+Design;Currently+learning...+React+Native+Animations" alt="Currently learning typing effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=500&height=60&lines=Aprendiendo...+Node.js;Aprendiendo...+MongoDB;Aprendiendo...+Diseño+UI%2FUX;Aprendiendo...+Animaciones+en+React+Native" alt="Actualmente aprendiendo" />
 </p>
 
 ---
 
-### ⏳ Ahora mismo estoy...
+### ⏳ Ahora mismo
 
-Trabajando en proyectos personales mientras perfecciono mis habilidades de desarrollo móvil y backend.
+Me encuentro trabajando en proyectos personales, perfeccionando mis habilidades en desarrollo móvil, backend y diseño de interfaces de usuario.
 
 ---
 
-### 📫 Contacto
+### 🎯 Estado actual
 
 <p align="center">
-  📧 <strong>Email:</strong> alejanmartinez411@gmail.com <br/>
+  <img src="https://img.shields.io/badge/Construyendo-nuevos%20proyectos-00BFFF?style=for-the-badge" />
+</p>
+
+---
+
+### 📫 Cómo contactarme
+
+<p align="center">
+  📧 <strong>Correo:</strong> alejanmartinez411@gmail.com <br/>
   📱 <strong>WhatsApp:</strong> +52 998 221 0316
 </p>
 
 ---
 
 <p align="center">
-  <em>Keep learning. Keep building. ✨</em> <br/>
+  <em>“No solo construyo software, construyo experiencias.”</em> ✨ <br/>
   <strong>- Carlos Manuel Alejandro Martinez</strong>
 </p>
