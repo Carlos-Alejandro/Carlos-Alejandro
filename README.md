@@ -22,6 +22,7 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 - 🎯 Mi objetivo es crear soluciones digitales que generen impacto real.
 - 📚 En constante búsqueda de aprendizaje y nuevos desafíos tecnológicos.
 </div>
+
 ---
 
 <div align="left">
