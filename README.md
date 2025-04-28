@@ -64,7 +64,6 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
       <strong>Plataforma IR Tour y Viajes</strong>
       <br/>
       <sub>Sistema de reservas punto a punto utilizando React y TypeScript.</sub>
-      <br/><br/>
       🔗 [Ver proyecto](#)
     </td>
     <td align="center" width="45%" valign="top">
@@ -73,7 +72,6 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
       <strong>Sistema de Tickets Técnicos</strong>
       <br/>
       <sub>Plataforma de tickets técnicos utilizando Laravel y MySQL.</sub>
-      <br/><br/>
       🔗 [Ver proyecto](#)
     </td>
   </tr>
@@ -89,7 +87,6 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
       <strong>Renta Vacacional Orquídeas</strong>
       <br/>
       <sub>Página web de renta vacacional desarrollada con React y TailwindCSS.</sub>
-      <br/><br/>
       🔗 [Ver proyecto](#)
     </td>
   </tr>
