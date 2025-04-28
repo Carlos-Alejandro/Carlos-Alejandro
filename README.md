@@ -54,11 +54,43 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 
 ### 🏗️ Portafolio
 
-| Proyecto | Captura | Descripción |
-|:---------|:--------|:------------|
-| **Renta Vacacional Orquídeas** | ![Renta Vacacional](https://live.staticflickr.com/65535/54483782013_2e9fce3f83_z.jpg) | Página web de renta vacacional desarrollada con React y TailwindCSS. [Ver proyecto](#) |
-| **Sistema de Tickets Técnicos** | ![Sistema de Tickets](https://live.staticflickr.com/65535/54483725494_5b545d09ee_z.jpg) | Plataforma de gestión de reportes técnicos con Laravel y MySQL. [Ver proyecto](#) |
-| **Plataforma IR Tour y Viajes** | ![IR Tour y Viajes](https://live.staticflickr.com/65535/54483862855_6d90d5c1ce.jpg) | Sistema de reservas punto a punto utilizando React y TypeScript. [Ver proyecto](#) |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="45%">
+      <img src="https://live.staticflickr.com/65535/54483782013_2e9fce3f83_z.jpg" alt="Renta Vacacional Orquídeas" width="300" />
+      <br/>
+      <strong>Renta Vacacional Orquídeas</strong>
+      <br/>
+      <sub>Página web de renta vacacional desarrollada con React y TailwindCSS.</sub>
+    </td>
+    <td align="center" width="45%">
+      <img src="https://live.staticflickr.com/65535/54483725494_5b545d09ee_z.jpg" alt="Sistema de Tickets Técnicos" width="300" />
+      <br/>
+      <strong>Sistema de Tickets Técnicos</strong>
+      <br/>
+      <sub>Plataforma de gestión de reportes técnicos utilizando Laravel y MySQL.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="90%">
+      <img src="https://live.staticflickr.com/65535/54483862855_6d90d5c1ce.jpg" alt="Plataforma IR Tour y Viajes" width="500" />
+      <br/>
+      <strong>Plataforma IR Tour y Viajes</strong>
+      <br/>
+      <sub>Sistema de reservas punto a punto utilizando React y TypeScript.</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 ### 📚 Actualmente aprendiendo
