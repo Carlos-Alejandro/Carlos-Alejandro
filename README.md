@@ -12,7 +12,13 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 
 ---
 
+<div align="right">
+
 ### 📜 Biografía sobre mí
+
+</div>
+
+<div align="center">
 
 - 🎓 Egresado de Ingeniería en Desarrollo y Gestión de Software.
 - 📍 Resido en Cancún, Quintana Roo, México.
@@ -22,12 +28,20 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 
 ---
 
+<div align="right">
+
 ### 💡 Valores que me definen
+
+</div>
+
+<div align="center">
 
 - **Responsabilidad**
 - **Creatividad**
 - **Innovación**
 - **Trabajo en equipo**
+
+</div>
 
 ---
 
