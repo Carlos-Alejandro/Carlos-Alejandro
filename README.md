@@ -58,19 +58,23 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 
 <table>
   <tr>
-    <td align="center" width="45%">
-       <img src="https://live.staticflickr.com/65535/54483862855_6d90d5c1ce.jpg" alt="Plataforma IR Tour y Viajes" width="300" />
-      <br/>
+    <td align="center" width="45%" valign="top">
+      <img src="https://live.staticflickr.com/65535/54483862855_6d90d5c1ce.jpg" alt="Plataforma IR Tour y Viajes" width="300" />
+      <br/><br/>
       <strong>Plataforma IR Tour y Viajes</strong>
       <br/>
-      <sub>Sistema de reservas punto a punto con React y TypeScript.</sub>
+      <sub>Sistema de reservas punto a punto utilizando React y TypeScript.</sub>
+      <br/><br/>
+      🔗 [Ver proyecto](#)
     </td>
-    <td align="center" width="45%">
+    <td align="center" width="45%" valign="top">
       <img src="https://live.staticflickr.com/65535/54483725494_5b545d09ee_z.jpg" alt="Sistema de Tickets Técnicos" width="300" />
-      <br/>
+      <br/><br/>
       <strong>Sistema de Tickets Técnicos</strong>
       <br/>
-      <sub>Plataforma de sistema de tickets Utilizando Laravel y MySQL.</sub>
+      <sub>Plataforma de tickets técnicos utilizando Laravel y MySQL.</sub>
+      <br/><br/>
+      🔗 [Ver proyecto](#)
     </td>
   </tr>
 </table>
@@ -79,12 +83,14 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 
 <table>
   <tr>
-    <td align="center" width="90%">
-     <img src="https://live.staticflickr.com/65535/54483782013_2e9fce3f83_z.jpg" alt="Renta Vacacional Orquídeas" width="500" />
-      <br/>
+    <td align="center" width="90%" valign="top">
+      <img src="https://live.staticflickr.com/65535/54483782013_2e9fce3f83_z.jpg" alt="Renta Vacacional Orquídeas" width="400" />
+      <br/><br/>
       <strong>Renta Vacacional Orquídeas</strong>
       <br/>
       <sub>Página web de renta vacacional desarrollada con React y TailwindCSS.</sub>
+      <br/><br/>
+      🔗 [Ver proyecto](#)
     </td>
   </tr>
 </table>
