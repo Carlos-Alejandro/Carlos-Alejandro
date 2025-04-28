@@ -59,11 +59,11 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 <table>
   <tr>
     <td align="center" width="45%">
-      <img src="https://live.staticflickr.com/65535/54483782013_2e9fce3f83_z.jpg" alt="Renta Vacacional Orquídeas" width="300" />
+       <img src="https://live.staticflickr.com/65535/54483862855_6d90d5c1ce.jpg" alt="Plataforma IR Tour y Viajes" width="500" />
       <br/>
-      <strong>Renta Vacacional Orquídeas</strong>
+      <strong>Plataforma IR Tour y Viajes</strong>
       <br/>
-      <sub>Página web de renta vacacional desarrollada con React y TailwindCSS.</sub>
+      <sub>Sistema de reservas punto a punto utilizando React y TypeScript.</sub>
     </td>
     <td align="center" width="45%">
       <img src="https://live.staticflickr.com/65535/54483725494_5b545d09ee_z.jpg" alt="Sistema de Tickets Técnicos" width="300" />
@@ -80,11 +80,11 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 <table>
   <tr>
     <td align="center" width="90%">
-      <img src="https://live.staticflickr.com/65535/54483862855_6d90d5c1ce.jpg" alt="Plataforma IR Tour y Viajes" width="500" />
+     <img src="https://live.staticflickr.com/65535/54483782013_2e9fce3f83_z.jpg" alt="Renta Vacacional Orquídeas" width="300" />
       <br/>
-      <strong>Plataforma IR Tour y Viajes</strong>
+      <strong>Renta Vacacional Orquídeas</strong>
       <br/>
-      <sub>Sistema de reservas punto a punto utilizando React y TypeScript.</sub>
+      <sub>Página web de renta vacacional desarrollada con React y TailwindCSS.</sub>
     </td>
   </tr>
 </table>
