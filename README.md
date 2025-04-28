@@ -10,7 +10,7 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 
 ---
 
-### 🧑‍🎓 biografía sobre mi
+###  biografía sobre mi
 
 - 🎓 Egresado de Ingeniería en Desarrollo y Gestión de Software.
 - 📍 Resido en Cancún, Quintana Roo, México.
@@ -52,13 +52,13 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 
 ---
 
-### 🎨 Portafolio visual
+### 🏗️ Portafolio
 
-<p align="center">
-  <img src="https://live.staticflickr.com/65535/54483782013_2e9fce3f83_z.jpg" alt="Proyecto Renta Vacacional" />
-  <img src="[https://via.placeholder.com/250x150.png?text=IR+Tour+Viajes](https://live.staticflickr.com/65535/54483862855_6d90d5c1ce.jpg)" alt="Proyecto IR Tour" />
-</p>
-
+| Proyecto | Captura | Descripción |
+|:---------|:--------|:------------|
+| **Renta Vacacional Orquídeas** | ![Renta Vacacional](https://live.staticflickr.com/65535/54483782013_2e9fce3f83_z.jpg) | Página web de renta vacacional desarrollada con React y TailwindCSS. [Ver proyecto](#) |
+| **Sistema de Tickets Técnicos** | ![Sistema de Tickets](https://live.staticflickr.com/65535/54483725494_5b545d09ee_z.jpg) | Plataforma de gestión de reportes técnicos con Laravel y MySQL. [Ver proyecto](#) |
+| **Plataforma IR Tour y Viajes** | ![IR Tour y Viajes](https://live.staticflickr.com/65535/54483862855_6d90d5c1ce.jpg) | Sistema de reservas punto a punto utilizando React y TypeScript. [Ver proyecto](#) |
 ---
 
 ### 📚 Actualmente aprendiendo
