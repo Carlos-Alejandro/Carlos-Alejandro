@@ -1,60 +1,63 @@
-# Carlos Manuel Alejandro Martinez
+<h1 align="center">Carlos Manuel Alejandro Martinez</h1>
+<p align="center"><em>Ingeniero en Desarrollo y Gestión de Software | Frontend Developer</em></p>
 
-> Ingeniero en Desarrollo y Gestión de Software | Frontend Developer
+---
+
+### ✨ Sobre mí
 
 Soy un desarrollador apasionado por construir experiencias digitales que conecten con las personas.  
 Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando diseño y tecnología.
 
 ---
 
-## ✨ Sobre mí
+### 💻 Tecnologías principales
 
-- Amante del diseño limpio y el código bien estructurado.
-- Disfruto transformar ideas en productos digitales reales.
-- Siempre en evolución: aprender, crecer, construir.
-- Creo en el poder de la colaboración y la mejora continua.
+<div align="center">
 
----
+| Frontend | Mobile | Backend (básico) | Bases de datos | Herramientas |
+|:--------|:-------|:----------------|:---------------|:------------|
+| React, TypeScript, TailwindCSS, Angular, Ionic | React Native | Node.js, Laravel, .NET | MySQL, MongoDB, Firebase | Git, Figma, VS Code |
 
-## 💻 Tecnologías principales
-
-- **Frontend**: React, TypeScript, TailwindCSS, Angular, Ionic
-- **Mobile**: React Native
-- **Backend básico**: Node.js, Laravel, .NET
-- **Bases de datos**: MySQL, MongoDB, Firebase
-- **Herramientas**: Git, Figma, Visual Studio Code
+</div>
 
 ---
 
-## 🚀 Proyectos seleccionados
+### 🚀 Proyectos destacados
 
-| Proyecto | Descripción |
-|:--------|:------------|
-| **Renta Vacacional Orquídeas** | Web para mostrar habitaciones disponibles, creada con React y Tailwind. |
-| **Sistema de Tickets Técnicos** | Aplicación de gestión de reportes técnicos en Laravel y MySQL. |
-| **Plataforma IR Tour y Viajes** | Frontend de reservas punto a punto, utilizando React y TypeScript. |
-| **EduScan** | Aplicación móvil de gestión escolar con React Native. |
-
----
-
-## 📈 Actualmente
-
-- Desarrollando aplicaciones móviles enfocadas en experiencia de usuario.
-- Ampliando conocimientos en backend con Node.js y bases de datos no relacionales.
-- Mejorando mis habilidades de UI/UX para diseñar soluciones aún más intuitivas.
+| Proyecto | Descripción breve |
+|:--------|:------------------|
+| **Renta Vacacional Orquídeas** | Web de renta vacacional construida con React y Tailwind. |
+| **Sistema de Tickets Técnicos** | Aplicación de reportes técnicos desarrollada con Laravel y MySQL. |
+| **Plataforma IR Tour y Viajes** | Plataforma de reservas punto a punto en React y TypeScript. |
+| **EduScan** | App móvil de asistencia escolar usando React Native y QR Codes. |
 
 ---
 
-## 🛤️ Filosofía de trabajo
+### 📈 Actualmente trabajando en
 
-*"El software no solo resuelve problemas. También crea experiencias."*  
+- 📱 Aplicaciones móviles enfocadas en experiencia de usuario.
+- 🌐 Fullstack con Node.js y MongoDB.
+- 🎨 Diseño de interfaces más intuitivas con principios de UI/UX.
+
+---
+
+### 🛤️ Filosofía
+
+> *"El software no solo resuelve problemas. También crea experiencias."*  
+
 Creo en el diseño consciente, en el desarrollo responsable, y en la tecnología como motor de cambio positivo.
 
 ---
 
-## 📫 Contacto
+### 📫 Contacto
 
-- Correo: **alejanmartinez411@gmail.com**
-- WhatsApp: **+52 998 221 0316**
+<p align="center">
+  📧 <strong>Email:</strong> alejanmartinez411@gmail.com <br/>
+  📱 <strong>WhatsApp:</strong> +52 998 221 0316
+</p>
 
 ---
+
+<p align="center">
+  <em>“Gracias por visitar mi perfil”</em> ✨
+</p>
