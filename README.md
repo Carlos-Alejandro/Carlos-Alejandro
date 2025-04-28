@@ -1,104 +1,60 @@
-<h1 align="center">¡Hola 👋! Soy Carlos Manuel Alejandro Martinez</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
-</p>
+# Carlos Manuel Alejandro Martinez
+
+> Ingeniero en Desarrollo y Gestión de Software | Frontend Developer
+
+Soy un desarrollador apasionado por construir experiencias digitales que conecten con las personas.  
+Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando diseño y tecnología.
 
 ---
 
-# 📋 Sobre mí
+## ✨ Sobre mí
 
-🎓 **Ingeniero en Desarrollo y Gestión de Software** especializado en desarrollo **Frontend**.  
-🎨 Apasionado por crear **interfaces modernas, atractivas y funcionales**.  
-🤝 Amante del trabajo en equipo, la comunicación efectiva y el aprendizaje continuo.
-
----
-
-# 🛠️ Tecnologías principales
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+- Amante del diseño limpio y el código bien estructurado.
+- Disfruto transformar ideas en productos digitales reales.
+- Siempre en evolución: aprender, crecer, construir.
+- Creo en el poder de la colaboración y la mejora continua.
 
 ---
 
-# 🚀 Proyectos destacados
+## 💻 Tecnologías principales
 
-| Proyecto | Descripción | Tecnologías |
-|:---------|:------------|:------------|
-| **[🏨 Renta Vacacional Orquídeas](https://github.com/Carlos-Alejandro/RentaVacacionalOrquideas)** | Página web de renta vacacional usando React y Tailwind. | React, TailwindCSS, JSON |
-| **[🛠️ Sistema de Tickets Técnicos](https://github.com/Carlos-Alejandro/SistemaTickets)** | Gestión de reportes técnicos con Laravel y MySQL. | Laravel, MySQL |
-| **[🚌 Plataforma IR Tour y Viajes](https://github.com/Carlos-Alejandro/IRTourViajes)** | Frontend para reservas punto a punto. | React, TypeScript, TailwindCSS |
-| **[🎯 EduScan](https://github.com/Carlos-Alejandro/EduScanApp)** | App escolar para asistencia y gestión con código QR. | React Native |
-
-> *(Actualiza los links si tus repos aún están en privado o los quieres publicar después.)*
+- **Frontend**: React, TypeScript, TailwindCSS, Angular, Ionic
+- **Mobile**: React Native
+- **Backend básico**: Node.js, Laravel, .NET
+- **Bases de datos**: MySQL, MongoDB, Firebase
+- **Herramientas**: Git, Figma, Visual Studio Code
 
 ---
 
-# 🔥 ¿En qué estoy trabajando?
+## 🚀 Proyectos seleccionados
 
-- 📱 Aplicaciones móviles usando **React Native**.
-- 📚 Curso de **Python Total** (Udemy).
-- 🌎 Preparando proyectos **fullstack** con **Node.js** y **MongoDB**.
-- 🏗️ Mejorando mis habilidades en **UI/UX Design** con Figma.
-
----
-
-# 📊 Mis estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Alejandro&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Alejandro&theme=radical" alt="GitHub Streak" />
-</p>
+| Proyecto | Descripción |
+|:--------|:------------|
+| **Renta Vacacional Orquídeas** | Web para mostrar habitaciones disponibles, creada con React y Tailwind. |
+| **Sistema de Tickets Técnicos** | Aplicación de gestión de reportes técnicos en Laravel y MySQL. |
+| **Plataforma IR Tour y Viajes** | Frontend de reservas punto a punto, utilizando React y TypeScript. |
+| **EduScan** | Aplicación móvil de gestión escolar con React Native. |
 
 ---
 
-# 🛤️ Habilidades en progreso
+## 📈 Actualmente
 
-| Habilidad | Progreso |
-|:----------|:---------|
-| React | ██████████ 90% |
-| TypeScript | █████████ 80% |
-| TailwindCSS | ██████████ 90% |
-| Angular | ████████ 70% |
-| Node.js | ██████ 50% |
-| MongoDB | █████ 40% |
-| React Native | ███████ 70% |
+- Desarrollando aplicaciones móviles enfocadas en experiencia de usuario.
+- Ampliando conocimientos en backend con Node.js y bases de datos no relacionales.
+- Mejorando mis habilidades de UI/UX para diseñar soluciones aún más intuitivas.
 
 ---
 
-# 🌎 ¡Contáctame!
+## 🛤️ Filosofía de trabajo
 
-<p align="center">
-  <a href="mailto:alejanmartinez411@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/529982210316">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+*"El software no solo resuelve problemas. También crea experiencias."*  
+Creo en el diseño consciente, en el desarrollo responsable, y en la tecnología como motor de cambio positivo.
 
 ---
 
-# 👀 Contador de visitas
+## 📫 Contacto
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Carlos-Alejandro&label=Profile%20views&color=0e75b6&style=flat" alt="Carlos-Alejandro" />
-</p>
+- Correo: **alejanmartinez411@gmail.com**
+- WhatsApp: **+52 998 221 0316**
 
 ---
-
-# 🎥 (Extra opcional) Slider de proyectos (simulado)
-
-```markdown
-🛠️ Renta Vacacional Orquídeas ➡️ Sistema de Tickets Técnicos ➡️ Plataforma IR Tour ➡️ EduScan App
