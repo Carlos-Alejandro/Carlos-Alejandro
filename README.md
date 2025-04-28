@@ -55,9 +55,8 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 ### 🎨 Portafolio visual
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x150.png?text=Renta+Vacacional" alt="Proyecto Renta Vacacional" />
-  <img src="https://via.placeholder.com/250x150.png?text=Sistema+Tickets" alt="Proyecto Sistema Tickets" />
-  <img src="https://via.placeholder.com/250x150.png?text=IR+Tour+Viajes" alt="Proyecto IR Tour" />
+  <img src="https://live.staticflickr.com/65535/54483782013_2e9fce3f83_z.jpg" alt="Proyecto Renta Vacacional" />
+  <img src="[https://via.placeholder.com/250x150.png?text=IR+Tour+Viajes](https://live.staticflickr.com/65535/54483862855_6d90d5c1ce.jpg)" alt="Proyecto IR Tour" />
 </p>
 
 ---
