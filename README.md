@@ -1,16 +1,23 @@
-<h1 align="center">Carlos Manuel Alejandro Martinez</h1>
+<h1 align="center">Hola, soy Carlos Manuel Alejandro Martinez</h1>
 <p align="center"><em>Ingeniero en Desarrollo y Gestión de Software | Desarrollador Frontend</em></p>
+
+---
+
+### 📋 Resumen profesional
+
+Soy un desarrollador frontend apasionado por crear experiencias digitales funcionales, atractivas y orientadas al usuario.  
+A través de una combinación de diseño, tecnología y buenas prácticas, busco aportar valor real a cada proyecto en el que participo.
 
 ---
 
 ### ✨ Sobre mí
 
-Soy un desarrollador apasionado por construir experiencias digitales que conecten con las personas.  
-Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando diseño, usabilidad y tecnología.
+Me considero una persona creativa, responsable y enfocada en el aprendizaje constante.  
+Disfruto trabajar en equipo, enfrentar nuevos retos y mantenerme en evolución, siempre buscando superarme tanto a nivel técnico como personal.
 
 ---
 
-###  biografía sobre mi
+### 🧑‍🎓 Biografía
 
 - 🎓 Egresado de Ingeniería en Desarrollo y Gestión de Software.
 - 📍 Resido en Cancún, Quintana Roo, México.
@@ -35,28 +42,17 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 
 | Frontend | Mobile | Backend (básico) | Bases de datos | Herramientas |
 |:--------|:-------|:----------------|:---------------|:------------|
-| React, TypeScript, TailwindCSS, Angular, Ionic | React Native | Node.js, Laravel, .NET | MySQL, MongoDB, Firebase | Git, Figma, VS Code |
+| React, TypeScript, TailwindCSS, Angular, Ionic | React Native | Node.js, Laravel, .NET | MySQL, MongoDB, Firebase | Git, Figma, Visual Studio Code |
 
 </div>
 
 ---
 
-### 🚀 Proyectos destacados
-
-| Proyecto | Descripción breve |
-|:--------|:------------------|
-| **Renta Vacacional Orquídeas** | Página web de renta vacacional desarrollada con React y TailwindCSS. |
-| **Sistema de Tickets Técnicos** | Plataforma de gestión de reportes técnicos utilizando Laravel y MySQL. |
-| **Plataforma IR Tour y Viajes** | Sistema de reservas punto a punto con React y TypeScript. |
-| **EduScan** | Aplicación móvil de gestión escolar con React Native y códigos QR. |
-
----
-
 ### 🏗️ Portafolio
 
----
-
 <div align="center">
+
+---
 
 ### 📌 Renta Vacacional Orquídeas
 
@@ -95,27 +91,27 @@ Sistema de reservas punto a punto utilizando React y TypeScript.
 
 🔗 [Ver proyecto](#)
 
-</div>
-
 ---
+
+</div>
 
 ---
 
 ### 📚 Actualmente aprendiendo
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=500&height=60&lines=Aprendiendo...+Node.js;Aprendiendo...+MongoDB;Aprendiendo...+Diseño+UI%2FUX;Aprendiendo...+Animaciones+en+React+Native" alt="Currently learning typing effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=500&height=60&lines=Aprendiendo...+Node.js;Aprendiendo...+MongoDB;Aprendiendo...+Diseño+UI%2FUX;Aprendiendo...+Animaciones+en+React+Native" alt="Actualmente aprendiendo" />
 </p>
 
 ---
 
 ### ⏳ Actualmente
 
-Desarrollando proyectos personales mientras perfecciono habilidades en desarrollo móvil, backend y diseño de interfaces.
+Me encuentro desarrollando proyectos personales, perfeccionando mis habilidades en desarrollo móvil, backend y diseño de interfaces de usuario.
 
 ---
 
-### 📫 Contacto
+### 📫 Cómo contactarme
 
 <p align="center">
   📧 <strong>Correo:</strong> alejanmartinez411@gmail.com <br/>
