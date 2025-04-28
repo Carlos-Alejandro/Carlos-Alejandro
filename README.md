@@ -16,16 +16,12 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 
 ### 📜 Biografía sobre mí
 
-</div>
-
-<div align="center">
-
 - 🎓 Egresado de Ingeniería en Desarrollo y Gestión de Software.
 - 📍 Resido en Cancún, Quintana Roo, México.
 - 💻 Especializado en desarrollo frontend con React, TypeScript y TailwindCSS.
 - 🎯 Mi objetivo es crear soluciones digitales que generen impacto real.
 - 📚 En constante búsqueda de aprendizaje y nuevos desafíos tecnológicos.
-
+</div>
 ---
 
 <div align="left">
