@@ -59,7 +59,7 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 <table>
   <tr>
     <td align="center" width="45%">
-       <img src="https://live.staticflickr.com/65535/54483862855_6d90d5c1ce.jpg" alt="Plataforma IR Tour y Viajes" width="500" />
+       <img src="https://live.staticflickr.com/65535/54483862855_6d90d5c1ce.jpg" alt="Plataforma IR Tour y Viajes" width="300" />
       <br/>
       <strong>Plataforma IR Tour y Viajes</strong>
       <br/>
@@ -80,7 +80,7 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 <table>
   <tr>
     <td align="center" width="90%">
-     <img src="https://live.staticflickr.com/65535/54483782013_2e9fce3f83_z.jpg" alt="Renta Vacacional Orquídeas" width="300" />
+     <img src="https://live.staticflickr.com/65535/54483782013_2e9fce3f83_z.jpg" alt="Renta Vacacional Orquídeas" width="500" />
       <br/>
       <strong>Renta Vacacional Orquídeas</strong>
       <br/>
