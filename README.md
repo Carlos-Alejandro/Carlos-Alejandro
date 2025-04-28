@@ -63,7 +63,7 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
       <br/>
       <strong>Plataforma IR Tour y Viajes</strong>
       <br/>
-      <sub>Sistema de reservas punto a punto utilizando React y TypeScript.</sub>
+      <sub>Sistema de reservas punto a punto con React y TypeScript.</sub>
     </td>
     <td align="center" width="45%">
       <img src="https://live.staticflickr.com/65535/54483725494_5b545d09ee_z.jpg" alt="Sistema de Tickets Técnicos" width="300" />
