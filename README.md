@@ -97,7 +97,7 @@ Me enfoco en crear soluciones funcionales, atractivas y escalables, combinando d
 <table>
   <tr>
     <td align="center" width="90%" valign="top">
-      <img src="https://live.staticflickr.com/65535/54483782013_2e9fce3f83_z.jpg" alt="Renta Vacacional Orquídeas" width="400" />
+      <img src="[https://live.staticflickr.com/65535/54483782013_2e9fce3f83_z.jpg](https://live.staticflickr.com/65535/54533206557_82bcf75427_z.jpg)" alt="Renta Vacacional Orquídeas" width="400" />
       <br/><br/>
       <strong>Renta Vacacional Orquídeas</strong>
       <br/>
